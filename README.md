@@ -1,11 +1,14 @@
- <img src="https://i.imgtg.com/2023/02/11/cmxuS.png" alt="BgImg">
+<div align="left">
+<img src="https://i.imgtg.com/2023/02/11/ctBMM.png" alt="BgImg">
+ </div>
  
-- 👋 Hi, I’m Fansky_Qs or AFanSKyQs 繁星
+  
+ - 👋 Hi, I’m Fansky_Qs or AFanSKyQs 繁星
 - 👀 I’m interested in games and music...
 - 🌱 I’m currently learning vue and ?...
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
- 
+
 ![AFanSKyQs's GitHub stats](https://github-readme-stats.vercel.app/api?username=AFanSKyQs&theme=merko&show_icons=true)
 
 ### Get in touch 
