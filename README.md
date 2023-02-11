@@ -21,6 +21,7 @@
 [![Group](https://img.shields.io/badge/Q群-755794036-red?style=flat-square&logo=GroupMe&logoColor=important)](https://jq.qq.com/?_wv=1027&k=I2HCxKdM)
 [![Discord](https://img.shields.io/badge/Discord_FanSky_Qo-blueviolet?style=flat-square&logo=discord)](https://discord.com/channels/@me)
 
+<img src="https://count.getloli.com/get/@:fansky_qs?theme=asoul" />
 
 <!---
 AFanSKyQs/AFanSKyQs is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
