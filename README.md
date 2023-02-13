@@ -1,6 +1,6 @@
 <div align="left">
 <!-- <img src="https://i.imgtg.com/2023/02/11/ctBMM.png" alt="BgImg"> -->
- <img src="https://raw.githubusercontent.com/AFanSKyQs/AFanSKyQs/main/AmiMiao.png" alt="BgImg">
+ <img src="https://raw.githubusercontent.com/AFanSKyQs/AFanSKyQs/main/AmiMiaoTwo.png" alt="BgImg">
  </div>
  
   
