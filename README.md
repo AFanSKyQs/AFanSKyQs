@@ -21,6 +21,7 @@
 [![QQ](https://img.shields.io/badge/QQ-3141865879-success?style=flat-square&logo=tencent-qq)](https://res.abeim.cn/api/qq/?qq=3141865879) 
 [![Group](https://img.shields.io/badge/Q群-755794036-red?style=flat-square&logo=GroupMe&logoColor=important)](https://jq.qq.com/?_wv=1027&k=I2HCxKdM)
 [![Discord](https://img.shields.io/badge/Discord_FanSky_Qo-blueviolet?style=flat-square&logo=discord)](https://discord.com/channels/@me)
+![](https://komarev.com/ghpvc/?username=AFanSkyQs)
 
 <img src="https://count.getloli.com/get/@:fansky_qs?theme=asoul" />
 
