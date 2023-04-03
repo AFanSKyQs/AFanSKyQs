@@ -1,6 +1,7 @@
 <div align="left">
 <!-- <img src="https://i.imgtg.com/2023/02/11/ctBMM.png" alt="BgImg"> -->
- <img src="https://raw.githubusercontent.com/AFanSKyQs/AFanSKyQs/main/AmiMiaoTwo.png" alt="BgImg">
+ <img src="https://i.imgtg.com/2023/04/04/2fh8l.png" alt="BgImg">
+<!--  <img src="https://raw.githubusercontent.com/AFanSKyQs/AFanSKyQs/main/AmiMiaoTwo.png" alt="BgImg"> -->
   <!--img src="https://i.imgtg.com/2023/02/14/dB3li.png" alt="BgImg"-->
  </div>
  
@@ -11,7 +12,7 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
-[![AFanSKyQs's Logo](https://i.imgtg.com/2023/04/04/2fh8l.png)](https://github.com/AFanSKyQs)
+<!-- [![AFanSKyQs's Logo](https://i.imgtg.com/2023/04/04/2fh8l.png)](https://github.com/AFanSKyQs) -->
 
 [![AFanSKyQs's GitHub stats](https://github-readme-stats.vercel.app/api?username=AFanSKyQs&show_icons=true&theme=merko)](https://github.com/AFanSKyQs)
 
